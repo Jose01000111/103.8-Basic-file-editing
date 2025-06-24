@@ -21,7 +21,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 ## 2️⃣ Writing Text into the Empty File
 🔹Enter Insert Mode to begin typing
 
-Press i to insert before the cursor
+🔹Press i to insert before the cursor
+
 🔹Now write your text, for example:
 
 🔹Exit Insert Mode
