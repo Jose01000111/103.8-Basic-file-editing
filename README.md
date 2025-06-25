@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [EXAM OBJECTIVE 103.8](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.8_Basic_file_editing)
 
-[OBJ. 103.8 NOTES]()
+[OBJ. 103.8 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/Eawz4EXwrNZFnTieoKS6eKoBxVu7JElU3O0PpnXBUem2eQ?e=zWg1as)
 
-[OBJ. 103.8]()
+[OBJ. 103.8 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EV1-CY0dDm5NoQhM544oqocBjqq-ePAXyJ8brWVjhIPuVg?e=1vFbU0)
 
 ---
 
